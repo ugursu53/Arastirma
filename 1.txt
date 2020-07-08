@@ -1,0 +1,26 @@
+VUE
+
+React ve Angular'dan esinlenerek yapılmıştır. Vue’da codebase <template>, <script> ve <style> olarak ayrılır ve adapte olması daha kolaydır.
+Küçük programlar yapılabilir.
+
+Puan: 7 Basit, hızlı, öğrenimi kolay, yeni başlayanlar için daha rahat, kaynak az.
+
+React
+
+React, tek bir dosya içerisinde JavaScript modülü olarak (JSX) html, css ve JavaScript olarak yazılır. 
+Dinamik olarak HTML oluşturma yükünü hafifletir. 
+Bu patterni öğrenmek ve alışmak biraz zaman alır. 
+Ancak alışıldığında oldukça okunaklı ve rahat bir codebase oluşur.
+VUE'ye göre daha karmaşık programlar yapılabilir.
+Mobil tarafta desteği var.
+Kaynak fazla.
+Dökümantasyon fazla.
+Öğrenmesi VUE'ye göre daha zor.
+
+Puan: 7 Basit, hızlı, öğrenimi VUE'ye göre daha zor, kaynak bol, endüstri standartı, destek daha fazla.
+
+Angular
+
+Modüler bir yapıya sahip. Büyük ve karmaşık uygulamarda daha kullanışlı. İçinde daha çok paketle geliyor. Cross Platform çalışabiliyor.
+
+Puan: 6 Karmaşık, hızlı, öğrenimi zor, kaynak bol, destek fazla.
