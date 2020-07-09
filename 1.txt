@@ -2,8 +2,7 @@ VUE
 
 React ve Angular'dan esinlenerek yapılmıştır. Vue’da codebase <template>, <script> ve <style> olarak ayrılır ve adapte olması daha kolaydır.
 Küçük programlar yapılabilir.
-
-Puan: 7 Basit, hızlı, öğrenimi kolay, yeni başlayanlar için daha rahat, kaynak az.
+Virtual DOM, Data Binding teknolojileri kullanılabilir.
 
 React
 
@@ -16,11 +15,17 @@ Mobil tarafta desteği var.
 Kaynak fazla.
 Dökümantasyon fazla.
 Öğrenmesi VUE'ye göre daha zor.
-
-Puan: 7 Basit, hızlı, öğrenimi VUE'ye göre daha zor, kaynak bol, endüstri standartı, destek daha fazla.
+Virtual DOM, Data Binding, React Native teknolojileri kullanılabilir.
 
 Angular
 
 Modüler bir yapıya sahip. Büyük ve karmaşık uygulamarda daha kullanışlı. İçinde daha çok paketle geliyor. Cross Platform çalışabiliyor.
+SSR, Modules, Testing and Debugging teknolojileri kullanılabilir.
 
-Puan: 6 Karmaşık, hızlı, öğrenimi zor, kaynak bol, destek fazla.
+
+		Basitlik	Öğrenim Kolaylığı	Dökümantasyon		Kaynak		Performans		
+Vue			8		8			6		8		7
+										
+React			7		7			8		9		7
+
+Angular			6		6			7		9		8
